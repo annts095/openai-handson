@@ -1,0 +1,22 @@
+{
+  "name": "openai-handson",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annts095/openai-handson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annts095/openai-handson/issues"
+  },
+  "homepage": "https://github.com/annts095/openai-handson#readme",
+  "dependencies": {
+    "openai": "^4.51.0"
+  }
+}

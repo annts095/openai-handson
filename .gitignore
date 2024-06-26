@@ -1,1 +1,3 @@
 node_modules
+src/file-search/demo/files/*
+!src/file-search/demo/files/.gitkeep

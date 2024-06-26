@@ -2,7 +2,6 @@
   "name": "openai-handson",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "chat": "node ./src/openai-text.js"
@@ -19,5 +18,9 @@
   "homepage": "https://github.com/annts095/openai-handson#readme",
   "dependencies": {
     "openai": "^4.51.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2"
   }
 }
